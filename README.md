@@ -8,8 +8,6 @@ Je dispose d'un Baccalauréat Professionel (MSPC) admise avec Mention Bien. Main
 
 # ⌨️ Mes projets en cours / My current projects
 
-🔭 Je n'ai acutellement pas de projets en cours.
-
 <br>🌱 J'apprends actuellement le C.
 
 <br>💬 Posez-moi toutes vos questions, j'essaierai d'y répondre du mieux que je peux.
