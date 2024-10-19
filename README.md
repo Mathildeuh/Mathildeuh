@@ -34,6 +34,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Mathilideuh&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 # 💰 Vous pouvez m'aider en donant / You can help me by Donating
-<-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/baptgosse_) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/BaptGosse_) -->
+[![PayPal](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=paypal&logoColor=black)](https://www.paypal.com/paypalme/MathildeAngibaud_)
 
 # Merci ❤️
