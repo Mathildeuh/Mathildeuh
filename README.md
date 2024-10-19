@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mathilde Angibaud - Mathilideuh</h1>
 
 # 💫 À propos de moi / About Me:
-[🇫🇷] Je suis une développeuse française passionnée. Mon objectif est d'aider des projets très prometteurs et d'apporter à mon humble échelle une contribution au monde du développement, qui j'espère pourra aider plus d'un.
+Je suis une développeuse française passionnée. Mon objectif est d'aider des projets très prometteurs et d'apporter à mon humble échelle une contribution au monde du développement, qui j'espère pourra aider plus d'un.
 
 # 🏫 Mes études / My studies
-[🇫🇷] Je dispose d'un Baccalauréat Professionel (MSPC) admise avec Mention Bien. Maintenant, je suis en première année d'Epitech Paris.
+Je dispose d'un Baccalauréat Professionel (MSPC) admise avec Mention Bien. Maintenant, je suis en première année d'Epitech Paris.
 
 # ⌨️ Mes projets en cours / My current projects
 
-🔭[🇫🇷] Je n'ai acutellement pas de projets en cours.
+🔭 Je n'ai acutellement pas de projets en cours.
 
-<br>🌱[🇫🇷] J'apprends actuellement le C.
+<br>🌱 J'apprends actuellement le C.
 
-<br>💬[🇫🇷] Posez-moi toutes vos questions, j'essaierai d'y répondre du mieux que je peux.
+<br>💬 Posez-moi toutes vos questions, j'essaierai d'y répondre du mieux que je peux.
 
 
 # 🌐 Réseaux sociaux / Socials :
