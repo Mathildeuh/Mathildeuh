@@ -22,7 +22,7 @@
 # 💻 Les technologies que j'apprend / Tech Stack:
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
- ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 
 # 📊 Statistiques GitHub / GitHub Stats:
 
