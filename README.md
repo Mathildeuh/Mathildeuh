@@ -17,7 +17,7 @@
 
 # 🌐 Réseaux sociaux / Socials :
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mathilde.narc )
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mathilde.narc)
 
 # 💻 Les technologies que j'apprend / Tech Stack:
 
@@ -34,6 +34,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Mathilideuh&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 # 💰 Vous pouvez m'aider en donant / You can help me by Donating
-[![PayPal](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=paypal&logoColor=black)](https://www.paypal.com/paypalme/MathildeAngibaud_)
+[![PayPal](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=paypal&logoColor=black)](https://www.paypal.com/paypalme/MathildeAngibaud)
 
 # Merci ❤️
