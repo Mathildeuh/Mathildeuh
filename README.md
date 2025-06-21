@@ -4,7 +4,7 @@
 Je suis une développeuse française passionnée. Mon objectif est d'aider des projets très prometteurs et d'apporter à mon humble échelle une contribution au monde du développement, qui j'espère pourra aider plus d'un.
 
 # 🏫 Mes études / My studies
-Je dispose d'un Baccalauréat Professionel (MSPC) admise avec Mention Bien. Maintenant, je suis en première année d'Epitech Paris.
+Je dispose d'un Baccalauréat Professionel (MSPC) admise avec Mention Bien.
 
 # ⌨️ Mes projets en cours / My current projects
 
