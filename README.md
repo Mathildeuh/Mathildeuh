@@ -1,28 +1,61 @@
-<h1 align="center">Hi 👋, I'm Mathilde Angibaud - Mathilideuh</h1>
+<h1 align="center">Bonjour 👋, Je suis Mathilde Angibaud (Mathilideuh)</h1>
+<h3 align="center">Développeuse Française Passionnée | French Passionate Developer</h3>
 
-# 🦄 À propos de moi / About Me:
-Je suis une développeuse française passionnée. Mon objectif est d'aider des projets très prometteurs et d'apporter à mon humble échelle une contribution au monde du développement, qui j'espère pourra en aider plus d'un(e).
+---
 
-# 🏫 Mes études / My studies
-🎓 En première année d'étude à Epitech Paris
+### 🚀 À propos de moi / About Me
 
-# ⌨️ Mes projets en cours / My current projects
+Je suis une **développeuse française** en première année d'études à **Epitech Paris**.
 
-<br>🌱 J'apprends actuellement le C.
-<br>💬 Posez-moi toutes vos questions, j'essaierai d'y répondre du mieux que je peux.
+Mon objectif est double :
+* Contribuer à des **projets prometteurs** en y apportant mon énergie et ma rigueur.
+* Partager mes connaissances et mon expérience pour **aider la communauté du développement** à mon humble échelle.
 
-# 💻 Les technologies que j'apprend / Tech Stack:
+> **💬 N'hésitez pas à me contacter !** Je suis toujours ouverte à la discussion sur le développement, les projets open-source, ou l'apprentissage. Posez-moi toutes vos questions, j'essaierai d'y répondre du mieux que je peux !
 
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
+---
 
-# 📊 Statistiques GitHub / GitHub Stats:
+### 🎓 Mon Parcours / My Journey
 
-![](https://github-readme-stats.vercel.app/api?username=Mathildeuh&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mathildeuh&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathildeuh&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+* **Actuellement** : En première année à **Epitech Paris** (Développement Informatique).
+* **En apprentissage** : Je me concentre activement sur la maîtrise du **langage C**.
 
-# 🦄 Vous pouvez m'aider en donant / You can help me by Donating
-[![PayPal](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=paypal&logoColor=black)](https://www.paypal.com/paypalme/MathildeAngibaud)
+---
 
-# Merci ❤️
+### 💻 Tech Stack & Outils (En Apprentissage)
+
+J'explore et me forme actuellement sur les technologies et outils suivants :
+
+| Catégorie | Technologies & Outils |
+| :--- | :--- |
+| **Langages** | [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://devdocs.io/c/) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://devdocs.io/java/) |
+| **Bases de Données** | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://devdocs.io/mysql/) |
+| **Environnement** | [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) |
+
+---
+
+### 🌱 Projets en Cours & Futur / Current & Future Projects
+
+* **`MouliCord`** : Bot discord qui scrappe une API Epitech pour récupérer les "Moulinettes" des projets.
+* **`API TODO List`** : Création d'une API Back-End complète avec une interface Front-End pour la gestion de tâches. Un projet complet pour maîtriser le développement web full-stack.
+* *Future* : J'ai hâte d'explorer d'autres langages comme **Python** ou des technologies web.
+
+---
+
+### 📊 Statistiques GitHub / GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mathildeuh&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true" alt="Mathildeuh GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathildeuh&theme=one_dark_pro&hide_border=false" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathildeuh&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+### ☕ Vous souhaitez m'encourager ? / Support My Learning
+
+Toute aide est grandement appréciée et me permet de continuer à investir dans mon apprentissage (livres, licences logicielles, etc.).
+
+[![PayPal](https://img.shields.io/badge/Faire%20un%20Don%20%E2%9D%A4-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/MathildeAngibaud)
+
+<h3 align="center">Merci de votre visite et bonne lecture de code ! ❤️</h3>
