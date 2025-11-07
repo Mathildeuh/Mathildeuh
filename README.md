@@ -4,7 +4,7 @@
 Je suis une développeuse française passionnée. Mon objectif est d'aider des projets très prometteurs et d'apporter à mon humble échelle une contribution au monde du développement, qui j'espère pourra aider plus d'un.
 
 # 🏫 Mes études / My studies
-En première année d'étude à Epitech Paris
+🎓 En première année d'étude à Epitech Paris
 
 # ⌨️ Mes projets en cours / My current projects
 
