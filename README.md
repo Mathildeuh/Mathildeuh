@@ -9,7 +9,6 @@ Je suis une développeuse française passionnée. Mon objectif est d'aider des p
 # ⌨️ Mes projets en cours / My current projects
 
 <br>🌱 J'apprends actuellement le C.
-
 <br>💬 Posez-moi toutes vos questions, j'essaierai d'y répondre du mieux que je peux.
 
 # 💻 Les technologies que j'apprend / Tech Stack:
