@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathilde Angibaud - Mathilideuh</h1>
 
 # 🦄 À propos de moi / About Me:
-Je suis une développeuse française passionnée. Mon objectif est d'aider des projets très prometteurs et d'apporter à mon humble échelle une contribution au monde du développement, qui j'espère pourra aider plus d'un.
+Je suis une développeuse française passionnée. Mon objectif est d'aider des projets très prometteurs et d'apporter à mon humble échelle une contribution au monde du développement, qui j'espère pourra en aider plus d'un(e).
 
 # 🏫 Mes études / My studies
 🎓 En première année d'étude à Epitech Paris
