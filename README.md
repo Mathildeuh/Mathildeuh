@@ -12,11 +12,6 @@ Je suis une développeuse française passionnée. Mon objectif est d'aider des p
 
 <br>💬 Posez-moi toutes vos questions, j'essaierai d'y répondre du mieux que je peux.
 
-
-# 🌐 Réseaux sociaux / Socials :
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mathilde.narc)
-
 # 💻 Les technologies que j'apprend / Tech Stack:
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
