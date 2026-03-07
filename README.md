@@ -17,7 +17,7 @@ Mon objectif est double :
 
 ### 🎓 Mon Parcours / My Journey
 
-* **Actuellement** : En première année à **Epitech Paris** (Développement Informatique).
+* **Actuellement** : En redoublante en première année à **Epitech Paris** (Développement Informatique).
 * **En apprentissage** : Je me concentre activement sur la maîtrise du **langage C**.
 
 ---
@@ -35,11 +35,18 @@ J'explore et me forme actuellement sur les technologies et outils suivants :
 
 ---
 
-### 🌱 Projets en Cours & Futur / Current & Future Projects
+### 🌱 Projets & Apprentissage
 
-* **`MouliCord`** : Bot discord qui scrappe une API Epitech pour récupérer les "Moulinettes" des projets.
-* **`API TODO List`** : Création d'une API Back-End complète avec une interface Front-End pour la gestion de tâches. Un projet complet pour maîtriser le développement web **Full-Stack (JS/HTML/CSS)**.
-* *Future* : J'ai hâte d'approfondir **Python** et d'explorer les frameworks JS modernes comme **React** ou **Vue.js**.
+Je n’ai pas de projet principal en cours pour le moment, mais je continue d’expérimenter et d’apprendre dans différents domaines du développement.
+
+Actuellement, je m’intéresse notamment à :
+
+- l’amélioration de mes compétences en **Python**
+- la pratique du **développement Full-Stack (JavaScript / HTML / CSS)**
+- l’exploration de frameworks JavaScript modernes comme **React** et **Vue.js**
+- la création de petits projets expérimentaux pour apprendre de nouveaux concepts
+
+*Futur :* continuer à développer mes compétences et travailler sur des projets plus ambitieux.
 
 ---
 
