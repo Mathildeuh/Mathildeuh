@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, Je suis Mathilde Angibaud (Mathilideuh)</h1>
+<h1 align="center">Bonjour 👋, Je suis Mathilde Angibaud (Mathildeuh)</h1>
 <h3 align="center">Développeuse Française Passionnée | French Passionate Developer</h3>
 
 ---
