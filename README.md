@@ -17,8 +17,7 @@ Mon objectif est double :
 
 ### 🎓 Mon Parcours / My Journey
 
-* **Actuellement** : En redoublante en première année à **Epitech Paris** (Développement Informatique).
-* **En apprentissage** : Je me concentre activement sur la maîtrise du **langage C**.
+* **Actuellement** : Au chomage
 
 ---
 
