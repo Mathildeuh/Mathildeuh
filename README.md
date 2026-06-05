@@ -5,7 +5,7 @@
 
 ### 🚀 À propos de moi / About Me
 
-Je suis une **développeuse française** en première année d'études à **Epitech Paris**.
+Je suis une **développeuse française**.
 
 Mon objectif est double :
 * Contribuer à des **projets prometteurs** en y apportant mon énergie et ma rigueur.
