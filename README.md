@@ -28,10 +28,10 @@ Je continue d'expérimenter et d'apprendre dans différents domaines du dévelop
 
 ## Statistiques
 
-<div align="center">
-  <img src="./generated/overview.svg" alt="Statistiques GitHub" width="48%"/>
-  <img src="./generated/languages.svg" alt="Langages les plus utilisés" width="48%"/>
-</div>
+<p align="center">
+  <img src="./profile/stats.svg" alt="Statistiques GitHub" width="48%"/>
+  <img src="./profile/top-langs.svg" alt="Langages les plus utilisés" width="48%"/>
+</p>
 
 <br/>
 
