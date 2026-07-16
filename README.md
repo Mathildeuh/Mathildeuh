@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Salut%2C+moi+c'est+Mathilde+%F0%9F%91%8B;D%C3%A9veloppeuse+Fran%C3%A7aise;Java+%C2%B7+Python+%C2%B7+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=500&speed=30&color=58A6FF&center=true&vCenter=true&width=500&lines=Salut%2C+moi+c'est+Mathilde+%F0%9F%91%8B;D%C3%A9veloppeuse+Fran%C3%A7aise;Java+%C2%B7+Python+%C2%B7+Web" alt="Typing SVG" />
 
 En recherche active de poste ou de mission, disponible immédiatement.
 
