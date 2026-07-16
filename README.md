@@ -33,6 +33,22 @@ Je continue d'expérimenter et d'apprendre dans différents domaines du dévelop
   <img src="./profile/top-langs.svg" alt="Langages les plus utilisés" width="48%"/>
 </p>
 
+<p align="center">
+  <img src="./profile/streak.svg" alt="Streak GitHub" width="70%"/>
+</p>
+
+<br/>
+
+## Activité
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mathildeuh/Mathildeuh/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mathildeuh/Mathildeuh/output/snake.svg" />
+    <img alt="Contributions" src="https://raw.githubusercontent.com/Mathildeuh/Mathildeuh/output/snake.svg" />
+  </picture>
+</p>
+
 <br/>
 
 ## On discute ?
