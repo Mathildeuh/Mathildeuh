@@ -1,0 +1,27 @@
+name: Générer les statistiques GitHub
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # tous les jours à 4h du matin
+  workflow_dispatch:        # permet de le lancer manuellement depuis l'onglet Actions
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme-stats:
+    name: Mise à jour des stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Générer les images de stats
+        uses: jstrieb/github-stats@master
+        with:
+          username: Mathildeuh
+          exclude_repos: ""
+          exclude_langs: ""
+          include_all_commits: true
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
