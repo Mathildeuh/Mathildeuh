@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mathilde&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 183, Total PRs: 33, Total PRs Merged: 9, Merged PRs Percentage: 27.27, Total PRs Reviewed: 1, Total Issues: 35, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 198, Total PRs: 33, Total PRs Merged: 9, Merged PRs Percentage: 27.27, Total PRs Reviewed: 1, Total Issues: 35, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 165.1867022129075;
+        stroke-dashoffset: 164.15936797444135;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >183</text>
+      >198</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
